@@ -1,1 +1,17 @@
-/* add CSS class and element and selectors here */
+body {
+  background-color: yellow;
+      font-size: 150%;
+  
+}
+
+#title-section {
+  background-color:green;
+  position: static;
+  border: 3px solid #73AD21;
+}
+.info-section {
+  background-color:red;
+  font-style: normal;
+}
+#welcome {background-color:purple;
+}
