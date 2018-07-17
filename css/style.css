@@ -1,1 +1,22 @@
-/* add CSS class and element and selectors here */
+
+.myClass {
+      background-color: red;
+      color: blue
+    }
+  
+  
+  body {
+      background-color: lightblue;
+      font-size: 300%;
+    }
+    
+    
+.anExampleClass {
+      font-size: 300%;
+      background-color: lightgreen;
+      font-family: courier;
+      border: 10px dotted red;
+      text-transform: uppercase;
+      letter-spacing: 5px;
+      transition: rotate(-30)deg;
+    }
